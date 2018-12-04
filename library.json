@@ -1,0 +1,55 @@
+{
+    "template": {
+        "title": null,
+        "author": null,
+        "link": null,
+        "price": null 
+    },
+    "bougth": [
+        {
+            "title": "Kali Linux. Testy penetracyjne i bezpieczeństwo sieci dla zaawansowanych. Wydanie II",
+            "author": "Vijay Kumar Velu",
+            "link": "https://helion.pl/ksiazki/kali-linux-testy-penetracyjne-i-bezpieczenstwo-sieci-dla-zaawansowanych-wydanie-ii-vijay-kumar-velu,kalit2.htm#section4_shift",
+            "price": 69
+        },
+        {
+            "title": "Skrypty powłoki systemu Linux. Receptury. Wydanie III.",
+            "author": "Clif Flynn, Sarath Lakshman, Shantanu Tushar",
+            "link": "https://helion.pl/ksiazki/skrypty-powloki-systemu-linux-receptury-wydanie-iii-clif-flynt-sarath-lakshman-shantanu-tushar,sposy3.htm#section4_shift",
+            "price": 89
+        },
+        {
+            "title": "Software craftsman. Profesjonalizm czysty kod i techniczna perfekcja.",
+            "author": "Sandro Mancuso",
+            "link": "https://helion.pl/ksiazki/software-craftsman-profesjonalizm-czysty-kod-i-techniczna-perfekcja-sandro-mancuso,prorze.htm#section4_shift",
+            "price": 59
+        },
+        {
+            "title": "Automatyzacja nudnych zadań z Pythonem. Nauka programowania",
+            "author": "Al Sweigart",
+            "link": "https://helion.pl/ksiazki/automatyzacja-nudnych-zadan-z-pythonem-nauka-programowania-al-sweigart,autopy.htm#format/d",
+            "price": 89
+        },
+        {
+            "title": "Jak stać się lepszym programista. Przewodnik.",
+            "author": "Pete Goodliffe",
+            "link": "https://helion.pl/ksiazki/jak-stac-sie-lepszym-programista-przewodnik-pete-goodliffe,jakpro.htm#section4_shift",
+            "price": 57 
+        },
+        {
+            "title": "Pragmatyczny programista. Od czeladnika do mistrza.",
+            "author": "Andrew Hunt, David Thomas",
+            "link": "https://helion.pl/ksiazki/pragmatyczny-programista-od-czeladnika-do-mistrza-andrew-hunt-david-thomas,pragpv.htm#section4_shift",
+            "price": 69
+        }
+    ],
+    "wishlist": [
+         {
+            "title": "Andrzej Mroczek",
+            "author": "Książka o fotografowaniu. Wydanie IV, zmienione",
+            "link": "https://helion.pl/ksiazki/ksiazka-o-fotografowaniu-wydanie-iv-zmienione-andrzej-a-mroczek,ofoto4.htm#format/d"
+            "price": 69 
+        }
+    ]
+}
+
